@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import CurrencyConverter from './pages/CurrencyConverter.jsx';
-import NotFound from './pages/NotFound.jsx';
+import CurrencyConverter from './CurrencyConverter.jsx';
+import NotFound from './NotFound.jsx';
 import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
