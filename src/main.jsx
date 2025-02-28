@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import CurrencyConverter from './pages/Currency';
+import CurrencyConverter from './pages/CurrencyConverter';
 import NotFound from './pages/NotFound';
 import './index.css';
 
